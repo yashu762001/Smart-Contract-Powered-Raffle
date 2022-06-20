@@ -1,6 +1,6 @@
 <h1> Smart-Raffle </h1>
 
-<h2> A decentralised lottery prevents any middlemen intervention who can manipulate the results. Also the winners are paid instantly so there is no chance of fraud. Trust issues are minimised since now we just have to beleive in a piece of code whic will work as it is instructed to. </h2>
+<h2> A decentralised lottery prevents any middlemen intervention who can manipulate the results. Also the winners are paid instantly so there is no chance of fraud. Trust issues are minimised since now we just have to beleive in a piece of code which will work as it is instructed to. </h2>
 
 <h2> TechStack Involved : </h2>
 <ul>
