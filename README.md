@@ -19,7 +19,7 @@
   <li> This way I learnt that fine randomisation within the blokchain is not possible but what if I use external services that could be decentralised plus gurantee returning a completely random number to my nodes. </li>
   <li> This is when I got to know about ChainLink VRF(Verifiable Random Function). It was easy to integrate these services within my code but just had to buy some Link Tokens so as to pay the firm for all the external computation it does for me. </li>
   <li> I also wanted to call the lottery if time interval between past block mined and new block mined exceeded 30 sec. So this meant I have to call my declare randomWinner function again and again. </li>
-  <li> But for this I have to write an external script that could continuosly check for conditions and execute the contract if the conditions are met. <li>
+  <li> But for this I have to write an external script that could continuosly check for conditions and execute the contract if the conditions are met. </li>
   <li> But to prevent this headache of writing an script I used ChainLink Keepers service which automatically checks for the condtions and if they are met execute the contract without me to worry about. <li>
  
  </ul>
